@@ -29,7 +29,7 @@ function decrypt(encrypted) {
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
-var { tabledetails1, logindetails, departmentdetails } = require('./data')
+
 
 
 var app = express();
